@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/crandellws/UnityApps/Blank/export/blank/Blank/libs/unity-classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="1b2a48042f16b8711f4329720d671a7a74c51848">
+        <dex dex="/home/crandellws/UnityApps/Blank/export/blank/Blank/build/intermediates/transforms/dex/debug/folders/1000/2/unity-classes_4c84c4002da6055c494c886f94b998877bc22658/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/crandellws/UnityApps/Blank/export/blank/Blank/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="/home/crandellws/UnityApps/Blank/export/blank/Blank/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c1878174fba4c884f6d5b2fa3e6209255363855b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/crandellws/UnityApps/Blank/export/blank/Blank/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="f4839bd37b36489351cda118eec792cf53e9c5f2">
+        <dex dex="/home/crandellws/UnityApps/Blank/export/blank/Blank/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2af358ed90db043b7aef64d01d1a6c4b11fe91e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/crandellws/UnityApps/Blank/export/blank/Blank/libs/unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="1b2a48042f16b8711f4329720d671a7a74c51848">
+        <dex dex="/home/crandellws/UnityApps/Blank/export/blank/Blank/build/intermediates/pre-dexed/debug/unity-classes_4c84c4002da6055c494c886f94b998877bc22658.jar" />
+    </item>
+
+</items>

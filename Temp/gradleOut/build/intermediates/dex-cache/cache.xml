@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/crandellws/UnityApps/Blank/Temp/gradleOut/libs/unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="fe32e06e5165d1b0217cb50b9a3ae9cd63b15575">
+        <dex dex="/home/crandellws/UnityApps/Blank/Temp/gradleOut/build/intermediates/pre-dexed/debug/unity-classes_0f9f6eea265aaa5b5a920e3447a11cf45c069571.jar" />
+    </item>
+
+</items>

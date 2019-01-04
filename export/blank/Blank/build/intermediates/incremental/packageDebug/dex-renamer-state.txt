@@ -1,0 +1,7 @@
+#Fri Jan 04 08:22:07 EST 2019
+base.0=/home/crandellws/UnityApps/Blank/export/blank/Blank/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c1878174fba4c884f6d5b2fa3e6209255363855b
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/crandellws/UnityApps/Blank/export/blank/Blank/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2af358ed90db043b7aef64d01d1a6c4b11fe91e0/classes.dex
+base.1=/home/crandellws/UnityApps/Blank/export/blank/Blank/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2af358ed90db043b7aef64d01d1a6c4b11fe91e0
+file.0=/home/crandellws/UnityApps/Blank/export/blank/Blank/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c1878174fba4c884f6d5b2fa3e6209255363855b/classes.dex

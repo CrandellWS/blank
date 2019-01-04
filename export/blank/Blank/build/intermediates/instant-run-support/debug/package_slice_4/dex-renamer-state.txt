@@ -1,0 +1,4 @@
+#Fri Jan 04 08:22:06 EST 2019
+base.0=/home/crandellws/UnityApps/Blank/export/blank/Blank/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4
+renamed.0=classes.dex
+file.0=/home/crandellws/UnityApps/Blank/export/blank/Blank/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex
